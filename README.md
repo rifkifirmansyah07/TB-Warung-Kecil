@@ -1,7 +1,7 @@
-Kelompok 4
+# Warung Kecil Hasil Tugas Besar Kelompok 4
 
-TB warung kecil
+Beranggotakan :
 
-nama : Sep Naufal Dzimar Sadly
-nama : Rifki Firmansyah
-nama : Daffa M Hasya
+# 1. Sep Naufal Dzimar.
+# 2. Rifki Firmansyahr.
+# 3. Dafa M Hasya
