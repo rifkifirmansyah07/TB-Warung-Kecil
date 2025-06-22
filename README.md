@@ -3,5 +3,5 @@
 Beranggotakan :
 
 # 1. Sep Naufal Dzimar.
-# 2. Rifki Firmansyahr.
+# 2. Rifki Firmansyah.
 # 3. Dafa M Hasya
